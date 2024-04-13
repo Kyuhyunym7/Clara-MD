@@ -6,7 +6,7 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6281573587196', 'Xyroinee', true]
 ]
 global.mods = []
 global.prems = []
